@@ -10,6 +10,7 @@
 		FCE8C1EA2989615A00A587CC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE8C1E92989615A00A587CC /* main.swift */; };
 		FCE8C1F3298966BD00A587CC /* VariablesConstantesOperadoresAritmeticos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE8C1F2298966BD00A587CC /* VariablesConstantesOperadoresAritmeticos.swift */; };
 		FCE8C1F52989D2FD00A587CC /* ControlDeFlujo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE8C1F42989D2FD00A587CC /* ControlDeFlujo.swift */; };
+		FCE8C1F7298A168500A587CC /* Switch.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCE8C1F6298A168500A587CC /* Switch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		FCE8C1E92989615A00A587CC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FCE8C1F2298966BD00A587CC /* VariablesConstantesOperadoresAritmeticos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VariablesConstantesOperadoresAritmeticos.swift; sourceTree = "<group>"; };
 		FCE8C1F42989D2FD00A587CC /* ControlDeFlujo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlDeFlujo.swift; sourceTree = "<group>"; };
+		FCE8C1F6298A168500A587CC /* Switch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Switch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				FCE8C1E92989615A00A587CC /* main.swift */,
 				FCE8C1F2298966BD00A587CC /* VariablesConstantesOperadoresAritmeticos.swift */,
 				FCE8C1F42989D2FD00A587CC /* ControlDeFlujo.swift */,
+				FCE8C1F6298A168500A587CC /* Switch.swift */,
 			);
 			path = EjerciciosProgramacionSwift;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FCE8C1F52989D2FD00A587CC /* ControlDeFlujo.swift in Sources */,
+				FCE8C1F7298A168500A587CC /* Switch.swift in Sources */,
 				FCE8C1EA2989615A00A587CC /* main.swift in Sources */,
 				FCE8C1F3298966BD00A587CC /* VariablesConstantesOperadoresAritmeticos.swift in Sources */,
 			);

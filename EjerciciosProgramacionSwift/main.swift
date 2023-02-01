@@ -54,3 +54,7 @@ ejercicio15.revisarCualEsElNumeroMasPequeñoDeLosIngresados(primerNumero: 2, seg
 
 let ejercicio16 = Ejercicio16()
 ejercicio16.revisarDivisibilidadDeUnNumero(ingreseNumero: 15)
+
+let ejercicio17 = Ejercicio17()
+print(ejercicio17.calcularPromedio(puntajeMatematicas: 100, puntajeEtica: 100, puntajeSociales: 100, puntajeCiencias: 100, puntajeGeometria: 100))
+

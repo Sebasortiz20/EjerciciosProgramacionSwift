@@ -132,3 +132,16 @@ class Ejercicio16 {
         }
     }
 }
+
+class Ejercicio17 {
+    //Video 23 juan villalvaso, tarea: crear programa en swift que calcule el promedio de un alumno y sus 5 materias principales. Al final debes de tener una variable bool que diga "true" si el alumno tiene promedio de 100
+
+    func calcularPromedio(puntajeMatematicas: Float, puntajeEtica: Float, puntajeSociales: Float, puntajeCiencias: Float, puntajeGeometria: Float) -> Bool {
+        let promedio = (puntajeMatematicas + puntajeEtica + puntajeSociales + puntajeCiencias + puntajeGeometria) / 5
+        if promedio == 100 {
+            return true
+        } else {
+            return false
+        }
+    }
+}
